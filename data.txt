@@ -1,0 +1,3 @@
+Namme: Hamlet
+Age: 27
+Sex: M
