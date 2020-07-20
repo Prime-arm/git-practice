@@ -1,3 +1,4 @@
 Namme: Hamlet
 Age: 27
 Sex: M
+Nationality: Armenian
